@@ -7,7 +7,7 @@ import Testimonial from "./Testimonial/Testimonial";
 import Contact from "./contact/Contact";
 import About from "./About/About";
 import Navbar from "./Navbar/Navbar";
-import { useTheme } from "../components/ThemeContext";
+import { useTheme } from "../components/Themecontext";
 const LandingPage = () => {
   const landingpagetext = [
     { text: "A healthy heart is the key to happiness in life" },
